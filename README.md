@@ -16,10 +16,9 @@ This project is my first project as a Micronaut
 ### Setup
 Install a browser
 ### Install
+- Donwload a browser
+- Run setup on the download file
 
-### Usage
-
-### Run tests
 
 
 ### Deployment
