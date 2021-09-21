@@ -13,6 +13,14 @@ This project is my first project as a Micronaut
 ### Prerequisites
  Basic knowledge in HTML and CSS
 
+### Setup
+Install a browser
+### Install
+
+### Usage
+
+### Run tests
+
 
 ### Deployment
 
